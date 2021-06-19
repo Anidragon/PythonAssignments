@@ -1,0 +1,8 @@
+least score:36.6
+Highest score100.0
+A's38
+B's26
+C's21
+D's7
+F's19
+Average80.4
